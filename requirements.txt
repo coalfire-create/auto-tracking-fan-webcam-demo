@@ -1,0 +1,4 @@
+opencv-python>=4.8
+numpy>=1.24
+# 선택: YOLOv8n 사람 인식 (없으면 OpenCV HOG로 자동 실행)
+ultralytics>=8.0

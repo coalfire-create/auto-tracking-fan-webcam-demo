@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tracking_log_*.csv
+headless_preview.png
+*.pt
+*_ncnn_model/
+.DS_Store
